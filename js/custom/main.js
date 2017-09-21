@@ -1,5 +1,5 @@
 function main(){
     renderBox(smoothedRoot);
-	renderText("Ajay Pro", smoothedRoot);
+	renderText("Zeus the ultra God", smoothedRoot);
 	
 }
